@@ -4,6 +4,9 @@
     "description": "take a photo",
     "effect": "synchronous",
     "input_parameters": {
+        "extent": {
+            "pvf_type": "string"
+        },
         "survey_type": {
             "pvf_type": "string"
         }

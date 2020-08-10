@@ -1,13 +1,10 @@
 {
-    "name": "TaNavigation",
-    "package_name": "ta_navigation",
-    "description": "go behind the tv",
+    "name": "TaStop",
+    "package_name": "ta_stop",
+    "description": "stop",
     "effect": "synchronous",
     "input_parameters": {
         "extent": {
-            "pvf_type": "string"
-        },
-        "location": {
             "pvf_type": "string"
         },
         "verb": {

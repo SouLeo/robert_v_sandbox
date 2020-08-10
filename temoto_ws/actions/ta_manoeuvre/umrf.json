@@ -3,6 +3,9 @@
     "package_name": "ta_manoeuvre",
     "effect": "synchronous",
     "input_parameters": {
+        "extent": {
+            "pvf_type": "string"
+        },
         "direction": {
             "pvf_type": "string"
         },
